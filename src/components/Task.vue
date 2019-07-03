@@ -68,7 +68,7 @@ export default {
         title: this.title,
         description: this.description,
         id: this.item.id,
-        progress: this.progress
+        progress: parseInt(this.progress)
       }
       this.$emit('update-task', updated);
       this.isEdit = false;
