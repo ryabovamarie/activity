@@ -1,5 +1,7 @@
 # Проект "Трекер активности"
 
+[Демо проекта](https://ryabovamarie.github.io/activity/)
+
 ## Project setup
 ```
 npm install
